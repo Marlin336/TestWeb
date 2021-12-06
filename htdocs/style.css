@@ -1,0 +1,20 @@
+*{
+	margin: 5px;
+}
+
+table{
+	border-color: black;
+	border:	2px solid;
+}
+td{
+	border-color: black;
+	border:	1px solid;
+}
+
+tr.selected{
+	font-weight: bold;
+}
+
+img{
+	border: 1px solid;
+}
